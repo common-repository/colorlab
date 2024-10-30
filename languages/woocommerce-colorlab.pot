@@ -1,0 +1,18 @@
+# Copyright (C) 2022 Woocommerce Printlane
+# This file is distributed under the same license as the Woocommerce Printlane package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce Printlane 1.4.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/woocommerce-"
+"colorlab\n"
+"POT-Creation-Date: 2019-01-01 15:44:41+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2022-06-20 14:30:00+00:00\n"
+"Last-Translator: Printlane Support <support@printlane.com>\n"
+"Language-Team: Printlane Support <support@printlane.com>\n"
+
+# Reference text in checkout
+msgid "reference"
+msgstr ""

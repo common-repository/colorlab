@@ -1,0 +1,10 @@
+.colorlab-edit-personalisation {
+	display: inline-block;
+	margin: .25em 0;
+	font-size: 0.8em;
+	line-height: 1.2em;
+}
+
+.wc-block-components-product-details__printlane-design-link .colorlab-edit-personalisation {
+	font-size: 1em;
+}
